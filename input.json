@@ -19,7 +19,10 @@
             "url": "git@github.com:bac-pins/pins-module-map.git"
         },
         {
-            "url": "git@github.com:bac-pins/pins-lib-common.git"
+            "url": "git@github.com:bac-pins/pins-lib-common.git",
+            "summary": "Pins common shared libraries",
+            "readmeURL": "https://raw.githubusercontent.com/bac-pins/pins-lib-common/develop/README.md?token=GHSAT0AAAAAABXDOKGQCNCLZUGZ6LKKTAWYYXY6VPQ",
+            "versions": []
         },
         {
             "url": "git@github.com:bac-pins/pins-x-module-template.git"
