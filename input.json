@@ -1,0 +1,19 @@
+{
+    "name": "Pins.app packages",
+    "overview": "This collection contains the Pins.app Swift packages.",
+    "author": {
+        "name": "emile"
+    },
+    "keywords": [
+        "pins"
+    ],
+    "packages": [
+        {"url": "git@github.com:bac-pins/pins-module-pins-list.git"},
+        {"url": "git@github.com:bac-pins/pins-module-map.git"},
+        
+        {"url": "git@github.com:bac-pins/pins-lib-common.git"},
+        
+        {"url": "git@github.com:bac-pins/pins-x-module-template.git"},
+        {"url": "git@github.com:bac-pins/pins-x-build-tools.git"},
+    ]
+}
