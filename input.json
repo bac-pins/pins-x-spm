@@ -79,6 +79,6 @@
         },
         
         {"url": "git@github.com:bac-pins/pins-x-module-template.git"},
-        {"url": "git@github.com:bac-pins/pins-x-build-tools.git"},
+        {"url": "git@github.com:bac-pins/pins-x-build-tools.git"}
     ]
 }
