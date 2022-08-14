@@ -49,7 +49,7 @@
                                     "name": "PinsUI",
                                     "type": { "library": ["automatic"] },
                                     "targets": ["PinsUI"]
-                                },
+                                }
                             ]
                         }
                     },
