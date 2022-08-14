@@ -21,7 +21,7 @@
                     "summary": "Initial version",
                     "manifests": {
                         "5.7": {
-                            "toolsVersion": "5.7,
+                            "toolsVersion": "5.7",
                             "packageName": "PinsCommon",
                             "targets": [
                                 { "name": "PinsCommon", "moduleName": "PinsCommon" },
