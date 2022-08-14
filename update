@@ -1,13 +1,12 @@
 package-collection-generate input.json ./collection.json
 
-# package-collection-sign output.json collection.json rsa_key.pem swift_package.cer
+package-collection-sign output.json collection.json cert/rsa_key.pem swift_package.cer
 
 swift package-collection list
 swift package-collection add https://raw.githubusercontent.com/bac-pins/pins-x-spm/main/collection.json --trust-unsigned
 swift package-collection refresh
-swift package-collection list
 
-# swift package-collection search --keywords html
+swift package-collection list
 
 # 
 git commit -S -a -m "update collection.json"
